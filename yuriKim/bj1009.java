@@ -2,7 +2,7 @@ package java_study;
 
 import java.util.Scanner;
 
-public class bj10989 {
+public class bj1009{
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
