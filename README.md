@@ -2,8 +2,8 @@
 
 ### part 1
 
-| 문제번호 | 주제 | 문제제목 |
-| --- | --- | --- |
+| 문제번호 | 주제 | 문제제목 |풀이 |
+| --- | --- | --- |---|
 | https://www.acmicpc.net/problem/2557 | 입출력 | Hello World |<ul><li>[ ] 풀이</li></ul>|
 | https://www.acmicpc.net/problem/10869 | 입출력 | 사칙연산 |<ul><li>[ ] 풀이</li></ul>|
 | https://www.acmicpc.net/problem/2588 | 입출력 | 곱셈 |<ul><li>[ ] 풀이</li></ul>|
