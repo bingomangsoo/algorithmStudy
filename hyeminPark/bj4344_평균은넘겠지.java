@@ -24,8 +24,8 @@ public class bj4344_평균은넘겠지 {
                 }
             }
 
-            System.out.println(String.format("%.3f", count/(double)n2*100*1000/1000.0));
-            System.out.print("%");
+            System.out.print(String.format("%.3f", count/(double)n2*100));
+            System.out.println("%");
 
         }
     }
