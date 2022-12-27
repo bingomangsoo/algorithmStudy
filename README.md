@@ -1,8 +1,8 @@
 # algorithmStudy
 ### part 1
 
-| 문제번호 | 주제 | 문제제목 | 난이도 |
-| --- | --- | --- | --- |
+| 문제번호 | 주제 | 문제제목 | 난이도 | 완료 |
+| --- | --- | --- | --- | --- |
 | https://www.acmicpc.net/problem/2588 | 입출력 | 곱셈 | 브론즈3 | [x]
 | https://www.acmicpc.net/problem/8958 | 배열 | OX퀴즈 | 브론즈2 | [x]
 | https://www.acmicpc.net/problem/4344 | 배열 | 평균은넘겠지 | 브론즈1 | [x]
