@@ -25,7 +25,6 @@ public class bj8958_OX {
                     count = 0;
                 }
             }
-            count = 0;
             System.out.println(sum);
         }
     }
