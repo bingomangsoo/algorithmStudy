@@ -17,14 +17,12 @@ public class bj8958_OX {
                 if (arr[i].equals("O")) {
                     count++;
                     sum += count;
-                    if (i > 0 && arr[i] == arr[i - 1]) {
-                        count++;
-                    }
                 }
-                if (arr[i].equals("X")) {
+                else if (arr[i].equals("X")) {
                     count = 0;
                 }
             }
+
             System.out.println(sum);
         }
     }
