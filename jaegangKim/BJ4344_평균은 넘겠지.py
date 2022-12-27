@@ -12,10 +12,3 @@ for score in scoreList:
     p = count/score[0]*100
     print('%.3f'%p,end='')
     print('%')
-
-
-# In[ ]:
-
-
-
-
