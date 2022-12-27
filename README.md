@@ -3,7 +3,7 @@
 
 | 문제번호 | 주제 | 문제제목 | 난이도 | 완료 |
 | --- | --- | --- | --- | --- |
-| https://www.acmicpc.net/problem/2588 | 입출력 | 곱셈 | 브론즈3 | 
+| https://www.acmicpc.net/problem/2588 | 입출력 | 곱셈 | 브론즈3 | * [x]
 | https://www.acmicpc.net/problem/8958 | 배열 | OX퀴즈 | 브론즈2 | 
 | https://www.acmicpc.net/problem/4344 | 배열 | 평균은넘겠지 | 브론즈1 | 
 | https://www.acmicpc.net/problem/1152 | 문자열 | 단어의 개수 | 브론즈2 | 
