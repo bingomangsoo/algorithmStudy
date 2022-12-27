@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 t = int(input())
 for i in range(t):
@@ -17,8 +12,6 @@ for i in range(t):
             o=1
     print(score)
 
-
-# In[ ]:
 
 
 
