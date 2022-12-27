@@ -38,4 +38,4 @@
 | https://www.acmicpc.net/problem/3190 |	큐 |	뱀 |	골드4 |
 | https://www.acmicpc.net/problem/11279 |	우선순위 | 최대 힙 |	실버2 |
 | https://www.acmicpc.net/problem/1655 |	우선순위 | 가운데를 말해요 |	골드2 |
-| https://www.acmicpc.net/problem/13334 |	우선순위 | 철로 |	골2 |
+| https://www.acmicpc.net/problem/13334 |	우선순위 | 철로 |	골드2 |
