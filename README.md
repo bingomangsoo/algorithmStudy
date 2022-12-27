@@ -2,7 +2,7 @@
 ### part 1
 
 | 문제번호 | 주제 | 문제제목 | 난이도 |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | https://www.acmicpc.net/problem/2557 | 입출력 | Hello World | 새싹 |
 | https://www.acmicpc.net/problem/10869 | 입출력 | 사칙연산 | 새싹 |
 | https://www.acmicpc.net/problem/2588 | 입출력 | 곱셈 | 브론즈3 |
