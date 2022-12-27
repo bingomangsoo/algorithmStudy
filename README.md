@@ -17,3 +17,23 @@
 | https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 |
 | https://www.acmicpc.net/problem/2309 | 완전탐색 | 일곱 난쟁이 | 실버5 |
 | https://www.acmicpc.net/problem/10819 | 완전탐색 | 차이를 최대로 | 실버2 |
+
+### part2
+| 문제번호 | 주제 | 문제제목 | 난이도 |
+| --- | --- | --- | --- |
+| https://www.acmicpc.net/problem/2805 | 이분탐색 |	나무 | 자르기 |	실2
+| https://www.acmicpc.net/problem/2110 |	이분탐색 |	공유기 설치 |	골4
+| https://www.acmicpc.net/problem/16564 |	이분탐색 |	히오스 프로게이머 |	실1
+| https://www.acmicpc.net/problem/1629 |	분할정복 |	곱셈 |	실1
+| https://www.acmicpc.net/problem/2630 |	분할정복 |	색종이 만들기 |	실2
+| https://www.acmicpc.net/problem/2261 |	분할정복 |	가장 가까운 두점 |	플2
+| https://www.acmicpc.net/problem/10828 |	스택 |	스택 |	실4
+| https://www.acmicpc.net/problem/9012 |	스택 |	괄호 |	실4
+| https://www.acmicpc.net/problem/2504 |	스택 |	괄호의 값 |	실1
+| https://www.acmicpc.net/problem/2493 |	스택 |	탑 |	골5
+| https://www.acmicpc.net/problem/2164 |	큐 |	카드2 |	실4
+| https://www.acmicpc.net/problem/11866 |	큐 |	요세푸스 문제 0 |	실5
+| https://www.acmicpc.net/problem/3190 |	큐 |	뱀 |	골4
+| https://www.acmicpc.net/problem/11279 |	우선순위 | 최대 힙 |	실2
+| https://www.acmicpc.net/problem/1655 |	우선순위 | 가운데를 말해요 |	골2
+| https://www.acmicpc.net/problem/13334 |	우선순위 | 철로 |	골2
