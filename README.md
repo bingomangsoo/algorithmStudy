@@ -18,6 +18,7 @@
 | https://www.acmicpc.net/problem/2309 | 완전탐색 | 일곱 난쟁이 | 실버5 |
 | https://www.acmicpc.net/problem/10819 | 완전탐색 | 차이를 최대로 | 실버2 |
 
+<br>
 ### part2
 | 문제번호 | 주제 | 문제제목 | 난이도 |
 | --- | --- | --- | --- |
