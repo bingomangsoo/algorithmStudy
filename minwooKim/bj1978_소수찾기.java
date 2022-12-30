@@ -9,7 +9,7 @@ public class Main {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        br.readLine();	// N 은 쓰지 않음.
+        br.readLine();	// 형식 상 입력
         int count = 0;
 
         StringTokenizer st = new StringTokenizer(br.readLine()," ");
@@ -24,7 +24,7 @@ public class Main {
             if(num == 1) {
                 continue;
             }
-            for(int i = 2; i <= Math.sqrt(num); i++) {
+            for(int i = 2; i <= Math.sqrt(num); i++) { // 제곱근을 이용한 소수 판별
                 if(num % i == 0) {
                     isPrime = false;
                     break;
