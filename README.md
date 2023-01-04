@@ -13,8 +13,8 @@
 | https://www.acmicpc.net/problem/9663 | 재귀함수 | N-Queen | 골드4 | &nbsp;&nbsp;:grey_question:
 | https://www.acmicpc.net/problem/2750 | 정렬 | 수 정렬하기 | 브론즈2 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2751 | 정렬 | 수 정렬하기2 | 실버5 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/10989 | 정렬 | 수 정렬하기3 | 브론즈1 | 
-| https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 | 
+| https://www.acmicpc.net/problem/10989 | 정렬 | 수 정렬하기3 | 브론즈1 | &nbsp;&nbsp;:grey_question:
+| https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2309 | 완전탐색 | 일곱 난쟁이 | 실버5 | 
 | https://www.acmicpc.net/problem/10819 | 완전탐색 | 차이를 최대로 | 실버2 | 
 
