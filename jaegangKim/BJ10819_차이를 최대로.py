@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 from itertools import permutations as pm
 n = int(input())
@@ -19,10 +14,4 @@ for p in pm(a):
     maxNum = max(maxNum,cal(p))
     
 print(maxNum)
-
-
-# In[ ]:
-
-
-
 
