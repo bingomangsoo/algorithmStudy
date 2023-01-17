@@ -16,11 +16,15 @@
 | https://www.acmicpc.net/problem/10989 | 정렬 | 수 정렬하기3 | 브론즈1 | &nbsp;&nbsp;:grey_question:
 | https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2309 | 완전탐색 | 일곱 난쟁이 | 실버5 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/10819 | 완전탐색 | 차이를 최대로 | 실버2 | 
+| https://www.acmicpc.net/problem/10819 | 완전탐색 | 차이를 최대로 | 실버2 | &nbsp;:heavy_check_mark:
 
 <br>
 
 ### Class2
 | 문제번호 | 주제 | 문제제목 | 난이도 | 완료 |
 | --- | --- | --- | --- | --- |
-| https://www.acmicpc.net/problem/1805 | 수학 | 직사각형에서 탈출 | 브론즈3 |
+| https://www.acmicpc.net/problem/1805 | 수학 | 직사각형에서 탈출 | 브론즈3 | &nbsp;:heavy_check_mark:
+| https://www.acmicpc.net/problem/4153 |  | 직각삼각형 | 브론즈3 |
+| https://www.acmicpc.net/problem/10250 |  | ACM 호텔 | 브론즈3 |
+| https://www.acmicpc.net/problem/2231 |  | 분해합 | 브론즈2 |
+| https://www.acmicpc.net/problem/2292 |  | 벌집 | 브론즈2 |
