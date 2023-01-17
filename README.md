@@ -20,22 +20,7 @@
 
 <br>
 
-### part2
+### Class2
 | 문제번호 | 주제 | 문제제목 | 난이도 | 완료 |
 | --- | --- | --- | --- | --- |
-| https://www.acmicpc.net/problem/2805 | 이분탐색 |	나무 자르기 |	실버2 |
-| https://www.acmicpc.net/problem/2110 |	이분탐색 |	공유기 설치 |	골드4 |
-| https://www.acmicpc.net/problem/16564 |	이분탐색 |	히오스 프로게이머 |	실버1 |
-| https://www.acmicpc.net/problem/1629 |	분할정복 |	곱셈 |	실버1 |
-| https://www.acmicpc.net/problem/2630 |	분할정복 |	색종이 만들기 |	실버2 |
-| https://www.acmicpc.net/problem/2261 |	분할정복 |	가장 가까운 두점 |	플레티넘2 |
-| https://www.acmicpc.net/problem/10828 |	스택 |	스택 |	실버4 |
-| https://www.acmicpc.net/problem/9012 |	스택 |	괄호 |	실버4 |
-| https://www.acmicpc.net/problem/2504 |	스택 |	괄호의 값 |	실버1 |
-| https://www.acmicpc.net/problem/2493 |	스택 |	탑 |	골드5 |
-| https://www.acmicpc.net/problem/2164 |	큐 |	카드2 |	실버4 |
-| https://www.acmicpc.net/problem/11866 |	큐 |	요세푸스 문제 0 |	실버5 |
-| https://www.acmicpc.net/problem/3190 |	큐 |	뱀 |	골드4 |
-| https://www.acmicpc.net/problem/11279 |	우선순위 | 최대 힙 |	실버2 |
-| https://www.acmicpc.net/problem/1655 |	우선순위 | 가운데를 말해요 |	골드2 |
-| https://www.acmicpc.net/problem/13334 |	우선순위 | 철로 |	골드2 |
+| https://www.acmicpc.net/problem/1805 | 수학 | 직사각형에서 탈출 | 브론즈3 |
