@@ -38,3 +38,15 @@
 | https://www.acmicpc.net/problem/10250 | 수학 | ACM 호텔 | 브론즈3 |
 | https://www.acmicpc.net/problem/2231 | 완전탐색 | 분해합 | 브론즈2 |
 | https://www.acmicpc.net/problem/2292 | 수학 | 벌집 | 브론즈2 |
+| https://www.acmicpc.net/problem/2798 | | 블랙잭 | 브론즈2 |
+| https://www.acmicpc.net/problem/15829 | | Hashing | 브론즈2 |
+| https://www.acmicpc.net/problem/1259 | | 팰린드롬수 | 브론즈1 |
+| https://www.acmicpc.net/problem/2609 | | 최대공약수와 최소공배수 | 브론즈1 |
+| https://www.acmicpc.net/problem/2775 | | 부녀회장이 될테야 | 브론즈1 |
+| https://www.acmicpc.net/problem/2869 | | 달팽이는 올라가고 싶다 | 브론즈1 | &nbsp;:heavy_check_mark:
+| https://www.acmicpc.net/problem/10989 | | 수 정렬하기 3 | 브론즈1 |
+| https://www.acmicpc.net/problem/11050 | | 이항 계수 1 | 브론즈1 |
+| https://www.acmicpc.net/problem/1181 |  | 단어 정렬 | 실버5 |
+| https://www.acmicpc.net/problem/1436 |  | 영화감독 숌 | 실버5 |
+| https://www.acmicpc.net/problem/1978 |  | 소수 찾기 | 실버5 |
+
