@@ -49,4 +49,4 @@
 | https://www.acmicpc.net/problem/1181 |  | 단어 정렬 | 실버5 |
 | https://www.acmicpc.net/problem/1436 |  | 영화감독 숌 | 실버5 |
 | https://www.acmicpc.net/problem/1978 |  | 소수 찾기 | 실버5 |
-
+  
