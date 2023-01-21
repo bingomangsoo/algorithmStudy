@@ -35,9 +35,9 @@
 | --- | --- | --- | --- | --- |
 | https://www.acmicpc.net/problem/1085 | 수학 | 직사각형에서 탈출 | 브론즈3 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/4153 | 수학 | 직각삼각형 | 브론즈3 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/10250 | 수학 | ACM 호텔 | 브론즈3 |
-| https://www.acmicpc.net/problem/2231 | 완전탐색 | 분해합 | 브론즈2 |
-| https://www.acmicpc.net/problem/2292 | 수학 | 벌집 | 브론즈2 |
+| https://www.acmicpc.net/problem/10250 | 수학 | ACM 호텔 | 브론즈3 | &nbsp;:heavy_check_mark:
+| https://www.acmicpc.net/problem/2231 | 완전탐색 | 분해합 | 브론즈2 | &nbsp;:heavy_check_mark:
+| https://www.acmicpc.net/problem/2292 | 수학 | 벌집 | 브론즈2 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2798 | | 블랙잭 | 브론즈2 |
 | https://www.acmicpc.net/problem/15829 | | Hashing | 브론즈2 |
 | https://www.acmicpc.net/problem/1259 | | 팰린드롬수 | 브론즈1 |
