@@ -4,6 +4,6 @@ for i in range(t):
     a = n%h
     b = (n//h)+1
     if a==0:
-        a = (a+1)*h
+        a = h
         b -= 1
     print(a*100+b)
