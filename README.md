@@ -1,4 +1,8 @@
 # algorithmStudy
+## 스터디원 및 코드 리뷰
+김유리 
+김재강: https://velog.io/@rlaworkd91/series/Algorithm
+박혜민
 
 ## 스터디 규칙
 1. 줌을 활용하여 소통과 화면을 공유한다.  
