@@ -1,7 +1,7 @@
 # algorithmStudy
 ## 스터디원 및 코드 리뷰
 김유리 : https://velog.io/@posasac/series/%EB%B0%B1%EC%A4%80
-<br>김재강 : <https://velog.io/@rlaworkd91/series/Algorithm>
+<br>김재강 : **https://velog.io/@rlaworkd91/series/Algorithm**
 <br>박혜민 : https://velog.io/@bingomangsoo/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80
 
 ## 스터디 규칙
