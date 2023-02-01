@@ -45,13 +45,13 @@
 | https://www.acmicpc.net/problem/2798 | 완전탐색 | 블랙잭 | 브론즈2 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/15829 | 문자열, 해싱 | Hashing | 브론즈2 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/1259 | 문자열 | 팰린드롬수 | 브론즈1 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/2609 | 수학 | 최대공약수와 최소공배수 | 브론즈1 |
-| https://www.acmicpc.net/problem/2775 | 수학 | 부녀회장이 될테야 | 브론즈1 |
+| https://www.acmicpc.net/problem/2609 | 수학 | 최대공약수와 최소공배수 | 브론즈1 | &nbsp;:heavy_check_mark:
+| https://www.acmicpc.net/problem/2775 | 수학 | 부녀회장이 될테야 | 브론즈1 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2869 | 수학 | 달팽이는 올라가고 싶다 | 브론즈1 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/10989 | 정렬 | 수 정렬하기 3 | 브론즈1 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/11050 | 수학 | 이항 계수 1 | 브론즈1 | 
+| https://www.acmicpc.net/problem/11050 | 수학 | 이항 계수 1 | 브론즈1 |  &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/1436 | 완전탐색 | 영화감독 숌 | 실버5 |
+| https://www.acmicpc.net/problem/1436 | 완전탐색 | 영화감독 숌 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/1978 | 수학 | 소수 찾기 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/2751 |  | 수 정렬하기 2 | 실버5 |
 | https://www.acmicpc.net/problem/7568 |  | 덩치 | 실버5 |
