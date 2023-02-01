@@ -6,15 +6,18 @@ public class bj11050_이항계수1 {
         int n = sc.nextInt();
         int k = sc.nextInt();
 
-        System.out.println(C(n)/(C(n-k)*C(k)));
+        int [][] arr = new int[n+1][k+1];
+
+        System.out.println(recall(n,k,arr));
 
 
     }
-    public static int C(int x){
-        int result = 1;
-        for (int i =1; i<=x; i++){
-            result *= i;
+    public static int recall(int n, int r, int[][] arr){
+        if (r == 0 || n==r){
+            arr[n][r] = 1;
+        }else {
+            arr[n][r] = recall(n-1,r-1,arr) + recall(n-1,r,arr);
         }
-        return result;
+        return arr[n][r];
     }
 }
