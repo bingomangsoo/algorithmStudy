@@ -53,7 +53,7 @@
 | https://www.acmicpc.net/problem/1181 | 정렬 | 단어 정렬 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/1436 | 완전탐색 | 영화감독 숌 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/1978 | 수학 | 소수 찾기 | 실버5 | &nbsp;:heavy_check_mark:
-| https://www.acmicpc.net/problem/2751 |  | 수 정렬하기 2 | 실버5 |
+| https://www.acmicpc.net/problem/2751 |  | 수 정렬하기 2 | 실버5 | &nbsp;:heavy_check_mark:
 | https://www.acmicpc.net/problem/7568 |  | 덩치 | 실버5 |
 | https://www.acmicpc.net/problem/10814 |  | 나이순 정렬 | 실버5 |
 | https://www.acmicpc.net/problem/11650 |  | 좌표 정렬하기 | 실버5 |
